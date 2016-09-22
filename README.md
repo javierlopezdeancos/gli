@@ -1,2 +1,2 @@
-# bifitel
-proyect to release github projects
+# GLI
+Git(hub) command line interface in go
